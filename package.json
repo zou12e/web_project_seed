@@ -1,0 +1,44 @@
+{
+  "name": "web_project_seed",
+  "version": "1.0.0",
+  "description": "web_project_seed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zou12e/web_project_seed.git"
+  },
+  "keywords": [
+    "zou12e"
+  ],
+  "author": "zou12e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zou12e/web_project_seed/issues"
+  },
+  "homepage": "https://github.com/zou12e/web_project_seed#readme",
+  "devDependencies": {
+    "cookie-parser": "^1.4.0",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "gulp": "^3.9.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-css-spriter": "^0.3.3",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^6.0.1",
+    "gulp-rev-collector": "^1.0.2",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-sass": "^2.1.1",
+    "gulp-sequence": "^0.4.3",
+    "gulp-uglify": "^1.5.1",
+    "http-server": "^0.8.5",
+    "iconv-lite": "^0.4.13",
+    "imagemin-pngquant": "^4.2.0"
+  }
+}

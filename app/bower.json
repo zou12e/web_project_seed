@@ -1,0 +1,30 @@
+{
+  "name": "web_project_seed",
+  "description": "web_project_seed",
+  "main": "index.js",
+  "authors": [
+    "zou12e"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "zou12e"
+  ],
+  "homepage": "https://github.com/zou12e/web_project_seed",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.8",
+    "angular": "~1.4.8",
+    "jquery": "~2.1.4",
+    "requirejs-domready": "~2.0.1",
+    "requirejs": "~2.1.22",
+    "underscore": "~1.8.3"
+  }
+}

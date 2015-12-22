@@ -1,0 +1,37 @@
+@import "compass/css3";
+.hide {
+	display: none !important;
+}
+.fl {
+	float: left !important;
+}
+.fr {
+	float: right !important;
+}
+.clear {
+	clear: both;
+}
+.clear:after {
+	content: "";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+.icon {
+	display: inline-block;
+	background: no-repeat;
+	background-size: 100% 100%;
+	width: 40px;
+	height: 40px;
+}
+
+.icon-failed {
+	background-image: url(../img/icons/icon_failed.png?__spriter);
+}
+.icon-success {
+	background-image: url(../img/icons/icon_success.png?__spriter);
+}
+.icon-warning {
+	background-image: url(../img/icons/icon_warning.png?__spriter);
+}
