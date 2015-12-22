@@ -2,6 +2,7 @@ NodeJs
 npm install -save-dev http-server  默认服务器
 http-server -a localhost -p 8000   切换端口
 
+
 npm install -g supervisor          调试
 supervisor server.js               开启服务 
 
