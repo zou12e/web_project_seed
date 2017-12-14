@@ -4,7 +4,7 @@ define(['./app'], function (app) {
     function($routeProvider) {
       $routeProvider.
       when('/index', {
-        templateUrl: 'html/index.html',
+        templateUrl: '/html/index.html',
         controller: 'IndexCtrl',
         title: '主页'
       }).
