@@ -27,9 +27,8 @@ npm install -save-dev iconv-lite          get乱码
 Bower
 ```
 npm install -g bower                      第三方包管理工具
-bower install jquery
-bower install requirejs
-bower install angularJs
+bower install 
+ 
 ```
 
 Gulp
